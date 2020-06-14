@@ -94,7 +94,7 @@ body {
     background-color: #f0f0f3;
     /* For Neumorphism Effect */
     background-color: #E0E5EC;
-    box-shadow: 9px 9px 16px #A3B1C6, -9px -9px 16px #ffffff;
+    box-shadow: 6px 6px 12px #A3B1C6, -6px -6px 12px #ffffff;
 }
 
 .condensed_btn {
