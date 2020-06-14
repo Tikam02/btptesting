@@ -10,6 +10,7 @@
 
 .body {
     margin: auto;
+    background: #f0f0f3;
 }
 
 body {
@@ -72,7 +73,7 @@ body {
     width: 311px;
     align-self: auto;
     margin-top: 50px;
-    height: 464px;
+    height: 440px;
     border-radius: 5px;
 }
 
@@ -82,13 +83,18 @@ body {
 }
 
 .thumbnail:hover {
-    cursor: pointer;
+    /* cursor: pointer;
     background-color: #f0f0f3;
     /* Basic styling and alignment */
     /* For Neumorphism Effect */
-    background-color: white;
+    /* background-color: white;
     transform: scale(1.02);
-    box-shadow: 3px 3px 3px #A3B1C6, -9px -9px 16px
+    box-shadow: 3px 3px 3px #A3B1C6, -9px -9px 16px; */
+    cursor: pointer;
+    background-color: #f0f0f3;
+    /* For Neumorphism Effect */
+    background-color: #E0E5EC;
+    box-shadow: 9px 9px 16px #A3B1C6, -9px -9px 16px #ffffff;
 }
 
 .condensed_btn {
